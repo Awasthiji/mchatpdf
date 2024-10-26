@@ -1,0 +1,9 @@
+# Ignore virtual environment folders
+.venv/
+venv/
+
+# Ignore other unnecessary files
+__pycache__/
+uploads/
+*.pyc
+*.pyo

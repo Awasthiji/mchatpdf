@@ -1,0 +1,23 @@
+.user-message {
+    text-align: right;
+    padding: 8px;
+    background-color: #0084ff;
+    color: white;
+    border-radius: 5px;
+    margin-top: 5px;
+    max-width: 80%;
+    float: right;
+    clear: both;
+}
+
+.assistant-message {
+    text-align: left;
+    padding: 8px;
+    background-color: #f0f0f0;
+    color: black;
+    border-radius: 5px;
+    margin-top: 5px;
+    max-width: 80%;
+    float: left;
+    clear: both;
+}
